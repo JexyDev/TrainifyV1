@@ -1,0 +1,26 @@
+{
+    "name": "trainifyv1",
+    "version": "1.0.0",
+    "description": "<div align=\"center\">",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "type": "commonjs",
+    "devDependencies": {
+        "@tailwindcss/postcss": "^4.1.17",
+        "autoprefixer": "^10.4.22",
+        "laravel-vite-plugin": "^2.0.1",
+        "postcss": "^8.5.6",
+        "tailwindcss": "^4.1.17",
+        "vite": "^7.2.6"
+    },
+    "dependencies": {
+        "bootstrap": "^5.3.8",
+        "sass": "^1.94.2"
+    }
+}
